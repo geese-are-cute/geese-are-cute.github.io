@@ -1,6 +1,8 @@
 # 學習 Git 的進度 & 心得
 
-## 閱讀進度
+## 目前進度
+
+目前正在閱讀這本書： [Git Pro](https://git-scm.com/book/en/v2)
 
 ### Pro Git
 
