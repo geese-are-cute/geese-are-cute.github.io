@@ -2,7 +2,8 @@
 
 ## 目前進度
 
-目前正在閱讀這本書： [Git Pro](https://git-scm.com/book/en/v2)
+目前正在閱讀這本書： 
+[Git Pro](https://git-scm.com/book/en/v2)
 
 ### Pro Git
 
