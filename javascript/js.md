@@ -23,12 +23,12 @@
 - [x] 10. Conditional branching: if, '?'
 - [x] 11. Logical operators
 - [x] 12. Nullish coalescing operator '??'
-- [ ] 13. Loops: while and for
-- [ ] 14. The "switch" statement
-- [x] 15. Functions `練習題最後一題沒寫`
+- [ ] 13. **Loops: while and for**
+- [ ] 14. **The "switch" statement**
+- [x] 15. **Functions**   *—— 練習題最後一題沒寫*
 - [x] 16. Function expressions
 - [x] 17. Arrow functions, the basics
-- [x] 18. JavaScript specials `因為沒讀 loop 和 switch 的章節，所以那部分不熟`
+- [x] 18. **JavaScript specials**   *—— 因為沒讀 loop 和 switch 的章節，所以那部分不熟*
 
 ### Code quality
 
