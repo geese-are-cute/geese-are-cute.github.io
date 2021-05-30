@@ -26,9 +26,9 @@
 - [ ] 13. Loops: while and for
 - [ ] 14. The "switch" statement
 - [x] 15. Functions `練習題最後一題沒寫`
-- [ ] 16. Function expressions
-- [ ] 17. Arrow functions, the basics
-- [ ] 18. JavaScript specials
+- [x] 16. Function expressions
+- [x] 17. Arrow functions, the basics
+- [x] 18. JavaScript specials `因為沒讀 loop 和 switch 的章節，所以那部分不熟`
 
 ### Code quality
 
