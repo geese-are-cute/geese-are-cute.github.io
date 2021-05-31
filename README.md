@@ -12,4 +12,4 @@
 
 - [Git](https://geese-are-cute.github.io/git/git)
 - [Javascript](https://geese-are-cute.github.io/javascript/js)
-- [學習日記](https://geese-are-cute.github.io/diary)
+- [學習日記](https://geese-are-cute.github.io/uncategorized/diary)
