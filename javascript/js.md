@@ -25,17 +25,17 @@
 - [x] 12. Nullish coalescing operator '??'
 - [ ] 13. **Loops: while and for**
 - [ ] 14. **The "switch" statement**
-- [x] 15. **Functions**   *—— 練習題最後一題沒寫*
+- [x] 15. **Functions** _—— 練習題最後一題沒寫_
 - [x] 16. Function expressions
 - [x] 17. Arrow functions, the basics
-- [x] 18. **JavaScript specials**   *—— 因為沒讀 loop 和 switch 的章節，所以那部分不熟*
+- [x] 18. **JavaScript specials** _—— 因為沒讀 loop 和 switch 的章節，所以那部分不熟_
 
 ### Code quality
 
-- [ ] 1.  Debugging in Chrome
-- [ ] 2.  Coding Style
-- [ ] 3.  Comments
-- [ ] 4.  Ninja code
+- [x] 1.  Debugging in Chrome _—— 2021/05/30 可能不久的將來用得上_
+- [x] 2.  Coding Style _—— 2021/05/30 無法立刻用得上，但是文章很短_
+- [x] 3.  Comments _—— 2021/05/30 無法立刻用得上，但是文章很短_
+- [x] 4.  Ninja code _—— 2021/05/30 如何寫糞code（難讀的code），沒屁用，但是很好笑_
 - [ ] 5.  Automated testing with Mocha
 - [ ] 6.  Polyfills and transpilers
 
