@@ -2,7 +2,7 @@
 
 ## Part 1: The JavaScript language {#part1}
 
-[Go to part20](js.md#part2)
+[Go to part2](js.md#part2)
 
 ### An introduction
 
