@@ -11,5 +11,5 @@
 ### 目前正在學習的內容
 
 - [Git](https://geese-are-cute.github.io/git/git)
-- [Javascript](https://geese-are-cute.github.io/javascript/js)
+- [Javascript](https://geese-are-cute.github.io/javascript/index)
 - [學習日記](https://geese-are-cute.github.io/uncategorized/diary)
