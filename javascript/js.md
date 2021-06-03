@@ -2,6 +2,8 @@
 
 ## Part 1: The JavaScript language {#part1}
 
+[Go to part20](js.md#part2)
+
 ### An introduction
 
 - [x] 1.  An Introduction to JavaScript
