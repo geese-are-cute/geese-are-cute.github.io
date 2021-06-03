@@ -2,7 +2,7 @@
 
 ## Part 1: The JavaScript language {#part1}
 
-[Go to part2](js.md#part2)
+[Go to part2](jsinfo.md#part2)
 
 ### An introduction
 
@@ -141,6 +141,8 @@
 ---
 
 ## Part2: Browser: Document, Events, Interfaces {#part2}
+
+[go to part1](jsinfo.md#part1)
 
 ### Document
 

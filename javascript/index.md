@@ -13,5 +13,5 @@
 
 ### Javascript.info 各章節及學習進度
 
-- [Part1: The JavaScript language](js.md#part1)
-- [Part2: Browser: Document, Events, Interfaces](js.md#part2)
+- [Part1: The JavaScript language](jsinfo.md#part1)
+- [Part2: Browser: Document, Events, Interfaces](jsinfo.md#part2)
